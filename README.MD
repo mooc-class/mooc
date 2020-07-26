@@ -6,11 +6,14 @@
 * [快速上手Linux 玩转典型应用](./lesson/lesson4)
 * [Python Flask构建微信小程序订餐系统](./lesson/lesson5)
 * [Python Flask快速入门与进阶](./lesson/lesson6)
+* [不知到全面了解HTTPS](./lesson/https)
 
 支持一下呗
 ============
 * ![微信公众号](http://cdn.static.54php.cn/images/weixin/coderonin.jpg?imageView/2/w/300)
-* [博客](https://www.54php.cn)
+* ![微信公众号](http://static.cdn.weiyum.cn/images/weiyu/learn_code.jpg?imageView/2/w/300)
+* [博客](http://www.54php.cn)
+* [即学即码工作室](http://www.weiyum.cn)
 * ![博客](https://www.54php.cn/default/qrcode?qr_text=https%3a%2f%2fwww.54php.cn)
 
             
